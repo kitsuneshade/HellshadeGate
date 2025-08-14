@@ -1,6 +1,6 @@
-https://github.com/kitsuneshade/HellshadeGate/blob/main/hade.jpeg
-# 🚀 HellshadeGate - Direct Syscall Loader for Windows
 
+# 🚀 HellshadeGate - Direct Syscall Loader for Windows
+![Alt text](hade.jpeg)
 ## 🧩 Project Overview
 
 HellshadeGate is a modular Rust loader that demonstrates advanced Windows offensive techniques, including direct syscalls, dynamic syscall resolution, and shellcode execution. The project is designed for red team operations, malware research, and security testing.
