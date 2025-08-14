@@ -33,7 +33,7 @@ HellshadeGate is a modular Rust loader that demonstrates advanced Windows offens
 - All steps include debug output for validation and troubleshooting.
 
 ---
-[![Demo Video](https://streamable.com/jmepy4?src=player-page-share)
+[demo en Streamable](https://streamable.com/jmepy4?src=player-page-share)
 ## 🧬 Code Flow
 
 1. **Syscall Table Initialization**
